@@ -1,1 +1,5 @@
 id,date,question,decision,rationale,status
+1,2026-09-29,Missing ego_body polygon,Draw ego_body at bottom,Comply with R07,resolved
+2,2026-09-29,Boxes smaller than 40px,Delete boxes < 40px,Comply with R01,resolved
+3,2026-09-29,Model missing fisheye edges,Retrain model on edge zones,Model hallucinating and missing objects,escalated
+4,2026-09-29,Edge box geometry error,Update rules for fisheye distortion,Clarify how to draw curved boxes,escalated
