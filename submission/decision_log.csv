@@ -1,0 +1,5 @@
+date,issue,decision,status,owner
+2026-09-29,Missing ego_body,Draw polygon for ego_body,resolved,annotator
+2026-09-29,Box < 40px,Delete boxes < 40px,resolved,annotator
+2026-09-29,Model spurious predictions,Retrain model on fisheye,escalated,ai_team
+2026-09-29,Fisheye edge distortion,Update guideline for edge boxes,escalated,guideline_team

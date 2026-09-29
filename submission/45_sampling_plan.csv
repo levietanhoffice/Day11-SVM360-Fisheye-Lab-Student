@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,20,low,Điều kiện chuẩn dễ quan sát
+front,hard,40,high,Nhiều xe chạy ngược chiều và xe chồng lấp
+rear,normal,20,low,Xe bám đuôi với khoảng cách tương đối tĩnh
+rear,hard,40,high,Đèn pha chói hoặc bị khuất tầm nhìn do thời tiết
+left,normal,10,medium,Vật thể (xe máy) đi ngang qua sườn xe
+left,hard,30,high,Méo fisheye mạnh ở mép và xe máy tạt ngang nhanh
+right,normal,10,medium,Vật thể (xe máy) đi ngang qua sườn xe
+right,hard,30,high,Méo fisheye mạnh ở mép và vùng điểm mù lớn
